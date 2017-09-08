@@ -1,3 +1,6 @@
+This fork was created to address https://github.com/runspired/smoke-and-mirrors/issues/145, for which https://github.com/runspired/smoke-and-mirrors/pull/155 has been submitted (not by the Ciena organization).  Once this is resolved this fork can be deleted.
+
+
 smoke-and-mirrors
 =================
 
